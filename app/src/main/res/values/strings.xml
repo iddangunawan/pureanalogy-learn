@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">pureanalogy-learn</string>
+    <string name="app_name">Pureanalogy Learn</string>
+    <string name="loading">Loading</string>
 </resources>
